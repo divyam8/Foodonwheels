@@ -1,8 +1,8 @@
 #Food on Wheels:
-A simple GUI based jumpy game implemented in Pygame(Python). 
+A simple Realtime Location App for Android.It was built for Mini Project.Say you want to track domino pizza delivery then dominos will provide channel name with your order confirmation message and you have to just subscribe to that channel.
+You can view realtime location of delivery guy.
 
-#Running the Game:
-This game can be played by simply running jumpy.py. The jumpy.py needs to be set in order to execute the file by installing Pygame Library. 
+#App:
 
 ![alt tag](https://github.com/divyam8/Foodonwheels/blob/master/Screenshots/Screenshot_20161227-123310.png?raw=true)
 
