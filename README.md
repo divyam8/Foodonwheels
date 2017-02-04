@@ -10,9 +10,12 @@ You can view realtime location of delivery guy.
            
 ![alt tag](https://github.com/divyam8/Foodonwheels/blob/master/Screenshots/Screenshot_20161205-114350.png?raw=true)
 
-#Contributors:
 
-1.Divyam Khandelwal(khandelwal.divyam@gmail.com)
+## Who made this?
+![](https://github.com/divyam8.png?size=100)
+Divyam Khandelwal ([github](https://github.com/divyam8))
 
-2.Abhijit Jain(abhijitjain.aj@gmail.com)
+![](https://github.com/ForeverRecompin.png?size=100)
+Abhijit Jain ([github](https://github.com/ForeverRecompin))
+
 
